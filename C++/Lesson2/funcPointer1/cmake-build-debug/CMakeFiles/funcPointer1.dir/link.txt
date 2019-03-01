@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/funcPointer1.dir/main.cpp.o  -o funcPointer1 
