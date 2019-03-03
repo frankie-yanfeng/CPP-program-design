@@ -1,0 +1,3 @@
+/home/eyan422/Downloads/C-program-design/C++/Lesson2/reference/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eyan422/Downloads/C-program-design/C++/Lesson2/reference/cmake-build-debug/CMakeFiles/reference.dir
+/home/eyan422/Downloads/C-program-design/C++/Lesson2/reference/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eyan422/Downloads/C-program-design/C++/Lesson3/exercise4/main.cpp
+iostream
+-
+cstdio
+-
+string
+-
+
