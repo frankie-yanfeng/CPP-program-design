@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/constructorArray.dir/main.cpp.o  -o constructorArray 

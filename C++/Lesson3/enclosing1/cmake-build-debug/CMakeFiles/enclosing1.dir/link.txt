@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/enclosing1.dir/main.cpp.o  -o enclosing1 
