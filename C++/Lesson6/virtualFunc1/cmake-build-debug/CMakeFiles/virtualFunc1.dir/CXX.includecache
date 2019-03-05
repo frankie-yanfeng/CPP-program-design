@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eyan422/Downloads/C-program-design/C++/Lesson6/virtualFunc1/main.cpp
+iostream
+-
+stdlib.h
+-
+math.h
+-
+

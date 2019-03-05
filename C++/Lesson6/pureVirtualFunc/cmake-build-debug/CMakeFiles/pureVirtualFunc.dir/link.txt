@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pureVirtualFunc.dir/main.cpp.o  -o pureVirtualFunc 

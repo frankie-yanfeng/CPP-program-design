@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/virtualFunc2.dir/main.cpp.o  -o virtualFunc2 

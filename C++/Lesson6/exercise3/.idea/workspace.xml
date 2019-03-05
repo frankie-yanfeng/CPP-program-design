@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="enclosing" targetName="enclosing" />
+      <config projectName="exercise3" targetName="exercise3" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,16 +11,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25f76ce4-c1d3-416d-856c-d2d786adff46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Lesson6/exercise1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson6/exercise2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson6/exercise3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson6/pureVirtualFunc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson6/virtualFunc1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson6/virtualFunc2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson6/virtualFunc3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Lesson6/virtualFuncDestructor/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="b72b9ea1-2b7f-4566-b7b9-05bbf25ba03e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../exercise1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pureVirtualFunc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtualFunc1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtualFunc2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtualFunc3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virtualFuncDestructor/.idea/vcs.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +30,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -39,7 +38,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -60,7 +63,9 @@
     <option name="width" value="1080" />
     <option name="height" value="1922" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -88,7 +93,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="enclosing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="enclosing" TARGET_NAME="enclosing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="enclosing" RUN_TARGET_NAME="enclosing">
+    <configuration name="exercise3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercise3" TARGET_NAME="exercise3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercise3" RUN_TARGET_NAME="exercise3">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -99,43 +104,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25f76ce4-c1d3-416d-856c-d2d786adff46" name="Default Changelist" comment="" />
-      <created>1551599982502</created>
+      <changelist id="b72b9ea1-2b7f-4566-b7b9-05bbf25ba03e" name="Default Changelist" comment="" />
+      <created>1551795426651</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551599982502</updated>
-      <workItem from="1551599983609" duration="300000" />
-      <workItem from="1551796312162" duration="41000" />
+      <updated>1551795426651</updated>
+      <workItem from="1551795427778" duration="719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="341000" />
+    <option name="totallyTimeSpent" value="719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1080" height="1922" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524178" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24951644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32961518" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905483" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32905483" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +150,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
