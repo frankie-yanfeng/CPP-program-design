@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/funcTemplate.dir/main.cpp.o  -o funcTemplate 
