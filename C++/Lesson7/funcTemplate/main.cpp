@@ -25,6 +25,14 @@ T2 print(T1 arg1, T2 arg2)
 	return arg2;
 }
 
+template<class T>
+T print(T arg1, T arg2)
+{
+	std::cout << arg1 << " " << arg2 << std::endl;
+
+	return arg2;
+}
+
 template <class T>
 T maxElement(T a[], int size)
 {
