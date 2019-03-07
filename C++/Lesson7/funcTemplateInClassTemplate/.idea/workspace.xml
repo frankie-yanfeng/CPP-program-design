@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="funcTemplate" targetName="funcTemplate" />
+      <config projectName="funcTemplateInClassTemplate" targetName="funcTemplateInClassTemplate" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,9 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8f81ef2-6252-46b3-aef3-2eaa5a533f61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../funcTemplateInClassTemplate/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fa91a3e2-aff6-4be6-83ca-ce227d576b10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../classTemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classTemplate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funcTemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funcTemplate/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,13 +34,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="323">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
-                <element signature="e#110#119#0" expanded="true" />
-                <element signature="e#185#205#0" expanded="true" />
-                <element signature="e#309#318#0" expanded="true" />
-                <element signature="e#420#429#0" expanded="true" />
+                <element signature="e#52#61#0" expanded="true" />
+                <element signature="e#89#99#0" expanded="true" />
+                <element signature="e#142#161#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,29 +63,13 @@
     <option name="width" value="856" />
     <option name="height" value="738" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="funcTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="funcTemplate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="funcTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -107,7 +91,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="funcTemplate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="funcTemplate" TARGET_NAME="funcTemplate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="funcTemplate" RUN_TARGET_NAME="funcTemplate">
+    <configuration name="funcTemplateInClassTemplate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="funcTemplateInClassTemplate" TARGET_NAME="funcTemplateInClassTemplate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="funcTemplateInClassTemplate" RUN_TARGET_NAME="funcTemplateInClassTemplate">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -118,25 +102,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e8f81ef2-6252-46b3-aef3-2eaa5a533f61" name="Default Changelist" comment="" />
-      <created>1551887646987</created>
+      <changelist id="fa91a3e2-aff6-4be6-83ca-ce227d576b10" name="Default Changelist" comment="" />
+      <created>1551969114239</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551887646987</updated>
-      <workItem from="1551887648336" duration="1347000" />
-      <workItem from="1551967932474" duration="120000" />
-      <workItem from="1551969248457" duration="79000" />
+      <updated>1551969114239</updated>
+      <workItem from="1551969115357" duration="130000" />
+      <workItem from="1551969331126" duration="110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1546000" />
+    <option name="totallyTimeSpent" value="240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1080" height="1922" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19825919" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25435203" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -167,13 +150,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="323">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
-            <element signature="e#110#119#0" expanded="true" />
-            <element signature="e#185#205#0" expanded="true" />
-            <element signature="e#309#318#0" expanded="true" />
-            <element signature="e#420#429#0" expanded="true" />
+            <element signature="e#52#61#0" expanded="true" />
+            <element signature="e#89#99#0" expanded="true" />
+            <element signature="e#142#161#0" expanded="true" />
           </folding>
         </state>
       </provider>
