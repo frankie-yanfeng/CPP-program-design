@@ -1,0 +1,3 @@
+/home/eyan422/Downloads/C-program-design/C++/Lesson8/vecor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eyan422/Downloads/C-program-design/C++/Lesson8/vecor/cmake-build-debug/CMakeFiles/vecor.dir
+/home/eyan422/Downloads/C-program-design/C++/Lesson8/vecor/cmake-build-debug/CMakeFiles/edit_cache.dir

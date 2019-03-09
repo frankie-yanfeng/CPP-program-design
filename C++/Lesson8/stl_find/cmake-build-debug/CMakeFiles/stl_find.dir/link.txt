@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stl_find.dir/main.cpp.o  -o stl_find 

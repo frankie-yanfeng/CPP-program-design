@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/templateClassToTemplateClass.dir/main.cpp.o  -o templateClassToTemplateClass 

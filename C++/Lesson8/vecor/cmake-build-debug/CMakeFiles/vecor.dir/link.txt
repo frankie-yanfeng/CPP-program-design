@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/vecor.dir/main.cpp.o  -o vecor 

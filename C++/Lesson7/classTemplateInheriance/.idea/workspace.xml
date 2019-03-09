@@ -11,10 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="326ee134-e99c-41f8-9241-2163cd79b217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../funcTemplateInClassTemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funcTemplateInClassTemplate/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="326ee134-e99c-41f8-9241-2163cd79b217" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            <state relative-caret-position="76">
+              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding>
                 <element signature="e#30#50#0" expanded="true" />
                 <element signature="e#89#109#0" expanded="true" />
@@ -106,12 +103,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551969692227</updated>
-      <workItem from="1551969693354" duration="163000" />
+      <workItem from="1551969693354" duration="311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163000" />
+    <option name="totallyTimeSpent" value="311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1080" height="1922" extended-state="6" />
@@ -128,7 +125,7 @@
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32961518" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -148,8 +145,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding>
             <element signature="e#30#50#0" expanded="true" />
             <element signature="e#89#109#0" expanded="true" />

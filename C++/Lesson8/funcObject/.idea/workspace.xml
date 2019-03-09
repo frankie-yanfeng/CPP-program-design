@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="exercise3" targetName="exercise3" />
+      <config projectName="funcObject" targetName="funcObject" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,8 +11,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f4e2a58-2138-41fe-b6c3-b526d2370120" name="Default Changelist" comment="">
+    <list default="true" id="6c0bfaee-3de5-4d0e-a3cb-ad2624b1c1f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lesson7/exercise4/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Lesson7/templateClassToTemplateClass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iterator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stl_find/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twoDimensionalVector/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vecor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson4/exercise3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson4/exercise3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lesson7/classTemplateInheriance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson7/classTemplateInheriance/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -33,21 +41,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            <state relative-caret-position="741">
+              <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#203#212#0" expanded="true" />
+                <element signature="e#363#372#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Array2</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -61,20 +66,22 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1920" />
-    <option name="y" value="-2" />
-    <option name="width" value="1080" />
-    <option name="height" value="1922" />
+    <option name="y" value="152" />
+    <option name="width" value="1050" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -91,7 +98,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="exercise3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercise3" TARGET_NAME="exercise3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercise3" RUN_TARGET_NAME="exercise3">
+    <configuration name="funcObject" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="funcObject" TARGET_NAME="funcObject" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="funcObject" RUN_TARGET_NAME="funcObject">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -102,31 +109,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5f4e2a58-2138-41fe-b6c3-b526d2370120" name="Default Changelist" comment="" />
-      <created>1551620872666</created>
+      <changelist id="6c0bfaee-3de5-4d0e-a3cb-ad2624b1c1f6" name="Default Changelist" comment="" />
+      <created>1552100933432</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551620872666</updated>
-      <workItem from="1551620873836" duration="5125000" />
-      <workItem from="1551627270435" duration="7000" />
-      <workItem from="1551627723304" duration="14000" />
-      <workItem from="1551999043889" duration="770000" />
+      <updated>1552100933432</updated>
+      <workItem from="1552100934523" duration="130000" />
+      <workItem from="1552101075200" duration="328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5916000" />
+    <option name="totallyTimeSpent" value="458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1080" height="1922" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24951644" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25435203" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19185722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -152,10 +157,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state relative-caret-position="741">
+          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#203#212#0" expanded="true" />
+            <element signature="e#363#372#0" expanded="true" />
           </folding>
         </state>
       </provider>
